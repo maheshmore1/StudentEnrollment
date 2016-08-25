@@ -49,5 +49,4 @@
 		<property name="username" value="dbuser" />
 		<property name="password" value="password" />
 	</bean>
-
 </beans>
