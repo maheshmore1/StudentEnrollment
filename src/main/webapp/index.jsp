@@ -23,6 +23,7 @@ body {
 					class="icon-bar"></span>
 			</button>
 		</div>
+		
 
 		<div class="navbar-collapse collapse navbar-responsive-collapse">
 			<form class="navbar-form navbar-right">
@@ -52,8 +53,8 @@ body {
 			</div>
 
 			<a class="btn btn-primary" href="webapi/studentResource/signup">Signup
-				» </a> <a class="btn btn-primary" href="webapi/studentResource/login">Login
-				» </a>
+				Â» </a> <a class="btn btn-primary" href="webapi/studentResource/login">Login
+				Â» </a>
 		</div>
 
 		<div></div>
