@@ -1,5 +1,6 @@
 <html>
 <head>
+<title>students app with load</title>
 <link href="assets/css/bootstrap-united.css" rel="stylesheet" />
 <link href="bootstrap/css/bootstrap-responsive.css" rel="stylesheet" />
 <style>
@@ -14,6 +15,10 @@ body {
 </style>
 </head>
 <body>
+	<% 
+	com.github.elizabetht.client.Load load=new com.github.elizabetht.client.Load();
+	load.runLoad();
+	%>
 	<div class="navbar navbar-default">
 
 		<div class="navbar-header">
